@@ -1,5 +1,12 @@
 # @keystatic/core
 
+## 0.1.8
+
+### Patch Changes
+
+- be0eaddc: Add `toolbarIcon` option to component blocks and show `cloudImage`
+  component in toolbar
+
 ## 0.1.7
 
 ### Patch Changes
